@@ -1,0 +1,27 @@
+
+BOOK DATA ANALYSIS REPORT
+=========================
+
+1. Total books analyzed: 1000
+2. Average book price: £35.07
+3. Minimum book price: £10.00
+4. Maximum book price: £59.99
+5. Unique book titles: 999
+6. Missing values: 0
+7. Duplicate rows: 0
+
+Rating Distribution:
+Rating
+One      226
+Three    203
+Five     196
+Two      196
+Four     179
+
+Average Price by Rating:
+Rating
+Five     35.37
+Four     36.09
+One      34.56
+Three    34.69
+Two      34.81
